@@ -17,6 +17,6 @@ public class AC implements AsyncCallback {
      */
     @Override
     public void handleError(Exception e, URL url, String method) {
-        System.out.println("Wywołanie AC.handleError " + e);
+        System.out.println("Wywołanie metody: " + method + " wywołało błąd: " + e);
     }
 }
