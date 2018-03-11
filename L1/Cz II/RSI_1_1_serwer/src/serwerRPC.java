@@ -10,7 +10,7 @@ public class serwerRPC {
      * Metoda, która zwraca sumę dwóch liczb całkowitych
      * @param x składnik nr 1
      * @param y składnik nr 2
-     * @return
+     * @return suma
      */
     public Integer echo(int x, int y) {
         return new Integer(x+y);
