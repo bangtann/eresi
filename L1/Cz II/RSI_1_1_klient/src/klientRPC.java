@@ -1,14 +1,21 @@
+/***
+ * @author Julita Bielaniewicz 227080
+ */
+
+
 import org.apache.xmlrpc.XmlRpcClient;
 
 import java.util.Scanner;
 import java.util.Vector;
 
+
+
 public class klientRPC {
 
     public static void main(String[] args) {
         try {
-            int port = 10013;
-            String addr = "192.168.1.20";
+            int port = 10015;
+            String addr = "192.168.43.208";
             XmlRpcClient srv = new XmlRpcClient(addr, port);
 
             Scanner sc = new Scanner(System.in);
@@ -73,13 +80,9 @@ public class klientRPC {
             System.err.println("Klient XML-RPC: " + e);
         }
     }
-            /* Przykładowe wywołania metod:
+}           /* Przykładowe wywołania metod:
 	         * show
-	         * multiply(int: 5, int: 3)
-	         * duplicateString(String: Ala ma kota, int: 4)
-	         * asyncString(String: No wreszcie!, int: 5000)
-	         * round(double: 1.123456789, int: 3)
-	         * round(double: 1.456, int: 2)
-	         * substring(String: abcdefg, int: 4)
-	         */
-}
+	         * triangle(int: 5, int: 5, int: 5)
+	         * pi(int: 4000000, int: 10000)
+	         * welcome(String: Wojciech, String: fr)
+	        */
