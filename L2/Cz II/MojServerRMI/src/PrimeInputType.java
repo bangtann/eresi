@@ -1,5 +1,3 @@
-package MojServerRMI;
-
 import java.io.Serializable;
 
 /**

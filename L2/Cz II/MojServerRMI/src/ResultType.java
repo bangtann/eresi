@@ -1,10 +1,8 @@
-package MojServerRMI;
+import java.io.Serializable;
 
 /***
  * @author Imie Nazwisko 22xxxx
  */
-
-import java.io.Serializable;
 
 public class ResultType implements Serializable {
 	private static final long serialVersionUID = 102L;

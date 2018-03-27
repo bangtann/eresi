@@ -1,5 +1,3 @@
-package MojKlientRMI;
-
 import java.io.Serializable;
 
 /***

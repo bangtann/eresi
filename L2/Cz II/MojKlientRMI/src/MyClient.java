@@ -1,5 +1,3 @@
-package MojKlientRMI;
-
 /**
  * Klasa glowna klienta RMI
  * @author Imie Nazwisko 22xxxx
