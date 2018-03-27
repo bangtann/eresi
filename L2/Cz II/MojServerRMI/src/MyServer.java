@@ -4,7 +4,7 @@ import java.rmi.registry.Registry;
 
 /**
  * Glowna klasa serwera RMI
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 public class MyServer {
     /**
@@ -21,13 +21,15 @@ public class MyServer {
         if (System.getSecurityManager() == null)
             System.setSecurityManager(new SecurityManager());
 
-        try {
+        /*try {
+
             Registry reg = LocateRegistry.createRegistry(1099);
         } catch (RemoteException e) {
             e.printStackTrace();
         }
-
+        */
         try {
+            System.setProperty("java.rmi.server.hostname","192.168.43.183");
             CalcObjImpl implObiektu = new CalcObjImpl();
             java.rmi.Naming.rebind(args[0], implObiektu);
             CalcObjImpl2 implObiektu2 = new CalcObjImpl2();

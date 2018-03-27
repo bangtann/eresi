@@ -2,7 +2,7 @@ import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
 /***
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 
 public class CalcObjImpl extends UnicastRemoteObject implements CalcObject {

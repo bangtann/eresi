@@ -2,7 +2,7 @@ import java.io.Serializable;
 
 /**
  * Klasa-parametr opisujaca przedzial liczb
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 public class PrimeInputType implements Serializable {
     private static final long serialVersionUID = 103L;

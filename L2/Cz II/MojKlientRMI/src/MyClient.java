@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 /**
  * Klasa glowna klienta RMI
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 public class MyClient {
     /**
@@ -45,6 +47,14 @@ public class MyClient {
         System.out.println("Referencje pobrane.");
 
         try {
+
+            Scanner sc = new Scanner(System.in);
+            System.out.println("Podaj początek przedziału:");
+            int od = sc.nextInt();
+            System.out.println("Podaj koniec przedziału:");
+            int koniec = sc.nextInt();
+
+
             wynik = zObiekt.calculate(1.1, 2.2);
             System.out.println("Wynik zObiekt: " + wynik);
 
@@ -54,8 +64,8 @@ public class MyClient {
 
             PrimeResultType primeResult;
             PrimeInputType primeInput = new PrimeInputType();
-            primeInput.setFrom(0);
-            primeInput.setTo(2000000);
+            primeInput.setFrom(od);
+            primeInput.setTo(koniec);
             primeResult = primeCalcObject.calculate(primeInput);
             System.out.println("Wynik primeCalcObject:");
             System.out.println("  resultDescription: " + primeResult.getResultDescription());

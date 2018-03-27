@@ -2,7 +2,7 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 
 /***
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 
 public interface CalcObject extends Remote {

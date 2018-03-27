@@ -1,7 +1,7 @@
 import java.io.Serializable;
 
 /***
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 public class ResultType implements Serializable {
 	private static final long serialVersionUID = 102L;

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Klasa-zadanie wyznaczajaca liczby pierwsze
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 public class PrimeCalcObject extends UnicastRemoteObject implements IPrimeCalcObject  {
     int THREATS = 10;

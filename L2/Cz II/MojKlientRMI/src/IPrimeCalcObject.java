@@ -3,7 +3,7 @@ import java.rmi.RemoteException;
 
 /**
  * Interfejs zdalnego obiektu obliczeniowego
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 public interface IPrimeCalcObject extends Remote{
     PrimeResultType calculate(PrimeInputType inputParam)

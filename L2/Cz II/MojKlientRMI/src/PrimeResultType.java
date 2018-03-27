@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * Klasa-wynik zawierajaca liste liczb pierwszych
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 public class PrimeResultType implements Serializable {
     private static final long serialVersionUID = 104L;

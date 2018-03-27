@@ -2,7 +2,7 @@ import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
 /***
- * @author Imie Nazwisko 22xxxx
+ * @author Julita Bielaniewicz 227080
  */
 
 public class CalcObjImpl2 extends UnicastRemoteObject implements CalcObject2 {
@@ -10,7 +10,7 @@ public class CalcObjImpl2 extends UnicastRemoteObject implements CalcObject2 {
 		super();
 	}
 
-	public ResultType calculate(InuptType inParam) throws RemoteException {
+	public ResultType calculate(InputType inParam) throws RemoteException {
 		double zm1, zm2;
 		ResultType wynik = new ResultType();
 		zm1 = inParam.getx1();
