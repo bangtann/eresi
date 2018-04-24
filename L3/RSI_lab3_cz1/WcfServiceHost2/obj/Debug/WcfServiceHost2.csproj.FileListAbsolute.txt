@@ -1,0 +1,31 @@
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe.config
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\bin\Debug\WcfServiceHost2.pdb
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\bin\Debug\WcfServiceContract.dll
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\bin\Debug\WcfServiceContract.pdb
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\bin\Debug\WcfServiceContract.dll.config
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\obj\Debug\WcfServiceHost2.csprojResolveAssemblyReference.cache
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\obj\Debug\WcfServiceHost2.csproj.CoreCompileInputs.cache
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\obj\Debug\WcfServiceHost2.csproj.CopyComplete
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\obj\Debug\WcfServiceHost2.exe
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost2\obj\Debug\WcfServiceHost2.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\bin\Debug\WcfServiceHost2.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\bin\Debug\WcfServiceContract.dll
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\bin\Debug\WcfServiceContract.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\bin\Debug\WcfServiceContract.dll.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\obj\Debug\WcfServiceHost2.csprojResolveAssemblyReference.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\obj\Debug\WcfServiceHost2.csproj.CoreCompileInputs.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\obj\Debug\WcfServiceHost2.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost2\obj\Debug\WcfServiceHost2.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\bin\Debug\WcfServiceHost2.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\bin\Debug\WcfServiceHost2.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\bin\Debug\WcfServiceContract.dll
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\bin\Debug\WcfServiceContract.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\bin\Debug\WcfServiceContract.dll.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\obj\Debug\WcfServiceHost2.csprojResolveAssemblyReference.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\obj\Debug\WcfServiceHost2.csproj.CoreCompileInputs.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\obj\Debug\WcfServiceHost2.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost2\obj\Debug\WcfServiceHost2.pdb

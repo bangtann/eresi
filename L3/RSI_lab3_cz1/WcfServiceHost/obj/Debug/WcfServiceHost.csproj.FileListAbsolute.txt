@@ -1,0 +1,42 @@
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\bin\Debug\WcfServiceContract.dll
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\bin\Debug\WcfServiceContract.pdb
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\bin\Debug\WcfServiceContract.dll.config
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CoreCompileInputs.cache
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CopyComplete
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+D:\Studia - Semestr 6\RSI\lab2\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\bin\Debug\WcfServiceContract.dll
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\bin\Debug\WcfServiceContract.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\bin\Debug\WcfServiceContract.dll.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CoreCompileInputs.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI---lab3\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\bin\Debug\WcfServiceContract.dll
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\bin\Debug\WcfServiceContract.pdb
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\bin\Debug\WcfServiceContract.dll.config
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CoreCompileInputs.cache
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+D:\studia\_RSI_Rozpr.syst.inf_Fryziu\lab3\RSI_lab3_1_dziala\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\bin\Debug\WcfServiceContract.dll
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\bin\Debug\WcfServiceContract.pdb
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\bin\Debug\WcfServiceContract.dll.config
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CopyComplete
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+C:\Users\Julita\Desktop\rsi_lab3\rsi_lab3\RSI_lab3_cz1\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
